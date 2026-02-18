@@ -8,7 +8,7 @@ textbook:
 
 If you notice any errors or have suggestions to improve the code, please let me know 🙂
 
-**Note:** I am using Temurin JDK 21 (by the Eclipse Foundation), and the code is adapted to take advantage of Java 21 features.
+**Note:** I am using OpenJDK 21, and the code is adapted to take advantage of Java 21 features.
 
 ## Content by Chapter (so far)
 
